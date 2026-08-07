@@ -1,2 +1,2 @@
-# excel-bike-sales-dashboard
-An interactive Excel dashboard analyzing customer demographics and bike purchasing trends
+# Bike Sales Performance Dashboard
+![Interactive Dashboard](./bike_sales_dashboard.gif)
